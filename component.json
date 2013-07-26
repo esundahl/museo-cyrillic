@@ -1,0 +1,16 @@
+{
+  "name": "museo-cyrillic",
+  "repo": "esundahl/museo-cyrillic",
+  "description": "Museo Cyrillic Font",
+  "version": "0.0.1",
+  "keywords": [
+  	"font",
+  	"museo",
+  	"cyrillic"
+  ],
+  "dependencies": {
+  	"esundahl/museo-cyrillic-500": "*"
+  },
+  "development": {},
+  "license": "MIT"
+}
