@@ -1,7 +1,6 @@
+# Museo Cyrillic
 
-# museo-cyrillic
-
-  Museo Cyrillic Font
+  Includes 500 regular font.
 
 ## Installation
 
@@ -11,7 +10,11 @@
 
 ## API
 
-
+```css
+body {
+  font-family: 'Museo Cyrillic';
+}
+```
 
 ## License
 
